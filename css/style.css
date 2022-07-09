@@ -1,0 +1,21 @@
+*{
+    font-family: 'Courier New', Courier, monospace;
+}
+
+
+
+.link {
+    color: rgb(247, 255, 240);
+}
+
+.link:hover{
+    color: rgb(8, 97, 97);
+}
+
+
+.azul{
+    background-color: rgb(8, 97, 97);
+}
+
+
+
